@@ -11,10 +11,10 @@
 proyecto que busca mostrar ejemplos de logica con condicionales ciclos y esctructura de datos
 
 ### Programado por:
-*Juan Esteban Torres Ibarguen*
+*Johan Quintero Alvarez*
 *
 ### Ejecutar: 
-`python ejemplo1.py ` 
+`python ejemplo1.py `  
 `python ejemplo2.py`
 
 
